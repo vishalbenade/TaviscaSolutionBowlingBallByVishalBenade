@@ -1,0 +1,14 @@
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\BowlingTest.dll
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\BowlingTest.pdb
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\Bowling.Models.dll
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\Ninject.dll
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\nunit.framework.dll
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\Bowling.Models.pdb
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\nunit.framework.pdb
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\nunit.framework.xml
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\bin\Debug\Ninject.xml
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\obj\Debug\Tavisca.Bowling.UnitTest.csprojAssemblyReference.cache
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\obj\Debug\Tavisca.Bowling.UnitTest.csproj.CoreCompileInputs.cache
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\obj\Debug\Tavisca.Bowling.UnitTest.csproj.CopyComplete
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\obj\Debug\BowlingTest.dll
+D:\Users\XY37876\source\repos\tddboyling\BowlingTest\obj\Debug\BowlingTest.pdb
