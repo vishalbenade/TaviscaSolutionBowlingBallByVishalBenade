@@ -1,0 +1,9 @@
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\bin\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.deps.json
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\bin\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.dll
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\bin\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.pdb
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\obj\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.csprojAssemblyReference.cache
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\obj\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.AssemblyInfoInputs.cache
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\obj\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.AssemblyInfo.cs
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\obj\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\obj\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.dll
+D:\Users\XY37876\source\repos\TaviscaBowlingBallGame\Tavisca.BowlingBall.ClassLibrary\obj\Debug\netcoreapp3.1\Tavisca.BowlingBall.ClassLibrary.pdb
